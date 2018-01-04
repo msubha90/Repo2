@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D49D-2516
+
+ Directory of C:\Users\MONTY\Desktop\M
+
+04-Jan-18  04:19 PM    <DIR>          .
+04-Jan-18  04:19 PM    <DIR>          ..
+04-Jan-18  04:19 PM                 0 mmm.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  54,283,776,000 bytes free
